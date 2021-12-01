@@ -1,5 +1,14 @@
 # @backstage/cli
 
+## 0.9.2
+
+### Patch Changes
+
+- e7230ef814: Bump react-dev-utils to v12
+- 416b68675d: build(dependencies): bump `style-loader` from 1.2.1 to 3.3.1
+- Updated dependencies
+  - @backstage/config-loader@0.8.1
+
 ## 0.9.1
 
 ### Patch Changes
